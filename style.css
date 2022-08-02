@@ -1,0 +1,35 @@
+.bg-color-search {
+    background-color: rgb(234, 225, 225);
+}
+
+.bg-box1 {
+    background-color: #66e0d3;
+    width: 36%;
+    height: 60px;
+    float: left;
+    padding: 10px;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.bg-box2 {
+    background-color: #70ccc2;
+    width: 20%;
+    height: 80px;
+    float: left;
+    margin-top: 2px;
+    margin-right: 2px;
+}
+
+.bg-box3 {
+    background-color: #62b3aa;
+    width: 42.5%;
+    height: 80px;
+    float: left;
+    margin-top: 2px;
+}
+
+.card {
+    width: 90%;
+    margin: auto;
+}
